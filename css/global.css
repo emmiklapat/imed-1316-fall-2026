@@ -1,0 +1,18 @@
+/*
+60 of #421A23
+30 of #CEE4F2
+10 of #BECABC
+*/
+
+:root {
+
+    /* var(--primaryColor)*/
+    --primaryColor: #421A23;
+
+    /* var(--secondaryColor)*/
+    --secondaryColor: #CEE4F2;
+
+    /* var(--accentColor)*/
+    --accentColor: #BECABC;
+
+}
