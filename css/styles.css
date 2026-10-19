@@ -28,6 +28,11 @@ body {
 
 .p-one {
     color: #000;
+    line-height: 1.2;
+    padding: 15px;
+    border: 2px solid red;
+
+    margin 15px;
 }
 
 fa-footer {
@@ -39,4 +44,8 @@ fa-footer {
     color: #fff;
     font-size 25px;
     margin: 15px;
+}
+
+.imed-img{
+    width: 100%;
 }
